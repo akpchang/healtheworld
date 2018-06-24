@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("Hello, World! Let's get you healed.")
+        
+        // 6/24/18 example to learn GitHub w/ Lynda - Todd Perkins - Xcode 9 Essential Training
+        print("Some change to modify git repo")
     }
 
     override func didReceiveMemoryWarning() {
